@@ -14,5 +14,13 @@ touch privado.txt [Crea dicho fichero]<br>
 mkdir privada [Crea la carpeta privada]<br>
 nano .gitignore [Se3 edita el archivo .gitignore]<br>
 git add .gitignore [Añadir archivo .gitignore]<br>
-git commit -m “he añadido  .gitignore” [hace commit y dicho mensaje  de que se ha añadido el.gitnore]
+git commit -m “he añadido  .gitignore” [hace commit y dicho mensaje  de que se ha añadido el.gitignore]<br>
 git push [Sube los cambios a dicho repositorio]
+
+## Comando que he  utilizado para Añadir fichero 1.txt y Añadir tag v.0.1
+touch 1.txt [Crea el fichero 1.txt]<br>
+git add 1.txt [Añade el fichero 1.txt]<br>
+git tag v.0.1 [Crea el tag llamadov.0.1]<br>
+git commit -am ”añadido 1.txt y el tag v.01” [Haze commit con dicho mensaje]<br>
+git push [Sube los cambios del repositorio]
+
