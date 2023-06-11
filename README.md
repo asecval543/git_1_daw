@@ -42,7 +42,14 @@ touch 2.txt [Crea el fichero 2.txt]<br>
 git add 2.txt [Añado el archivo 2.txt]<br>
 git commit -m “añadido el archivo 2.txt  a la rama v.0.2” [Se hace el commit con dicho mensaje]<br>
 git push -u origin v.0.2 [ Envía los cambios realizados en la rama "v0.2"]
- 
+
+## ARCHIVO  EQUIPO.MD
+touch equipo.md [Crea archivo equipo.md]<br>
+nano equipo.md  [Edita el archivo md]<br>
+git add equipo.md [Añade aechivo md]<br>
+git commit -m "añadido equipo.md" [Hace el ciommit con dicho mensaje]<br>
+git push [Se sube los cambio]<br>
+
 ## Comando que he utilizado para  Borrar rama ,Crear un tag v0.2 y Borrar la rama v0.2
 git tag v.0.2 [para crear una etiqueta  llamada v.0.]<br>
 git checkout v.0.2 [ sirve para cambiar a una versión específica de un repositorio.]<br>
