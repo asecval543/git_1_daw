@@ -24,3 +24,11 @@ git tag v.0.1 [Crea el tag llamadov.0.1]<br>
 git commit -am ”añadido 1.txt y el tag v.01” [Haze commit con dicho mensaje]<br>
 git push [Sube los cambios del repositorio]
 
+## Tabla de compañeros
+
+| NOMBRE | GITHUB|
+|--------|------|                   	 
+| Pablo  | [github](https://github.com/pamadob/) |  
+| Antonio| [github](https://github.com/anuncar621508)  |
+| Jose D | [github 3](https://github.com/jjunlob074)   |
+
