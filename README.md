@@ -28,7 +28,18 @@ git push [Sube los cambios del repositorio]
 
 | NOMBRE | GITHUB|
 |--------|------|                   	 
-| Pablo  | [github](https://github.com/pamadob/) |  
-| Antonio| [github](https://github.com/anuncar621508)  |
+| Pablo  | [github 1](https://github.com/pamadob/) |  
+| Antonio| [github 2](https://github.com/anuncar621508)  |
 | Jose D | [github 3](https://github.com/jjunlob074)   |
 
+##  Comando que he  utilizado para Crear una rama, Crear la rama v0.2 
+## Posiciona tu carpeta de trabajo en esta rama. Añadir fichero 
+##  Añadir un fichero 2.txt en la rama v0.2
+
+git branch v.0.2 [Crea una nueva rama]<br>
+git checkout v.0.2 [Para cambiar al branch (rama]<br>
+touch 2.txt [Crea el fichero 2.txt]<br>
+git add 2.txt [Añado el archivo 2.txt]<br>
+git commit -m “añadido el archivo 2.txt  a la rama v.0.2” [Se hace el commit con dicho mensaje]<br>
+git push -u origin v.0.2 [ Envía los cambios realizados en la rama "v0.2"]
+ 
