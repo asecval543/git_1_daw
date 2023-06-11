@@ -1,4 +1,5 @@
  |NOMBRE|USUARIO DE GITHUB|
 |------|--------------|
-|Alejandro|[ asecval543|
-|Pablo|jpamadob|
+|Alejandro| asecval543|
+|Pablo|pamadob|
+
