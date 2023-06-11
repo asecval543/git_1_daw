@@ -43,3 +43,9 @@ git add 2.txt [Añado el archivo 2.txt]<br>
 git commit -m “añadido el archivo 2.txt  a la rama v.0.2” [Se hace el commit con dicho mensaje]<br>
 git push -u origin v.0.2 [ Envía los cambios realizados en la rama "v0.2"]
  
+## Comando que he utilizado para  Borrar rama ,Crear un tag v0.2 y Borrar la rama v0.2
+git tag v.0.2 [para crear una etiqueta  llamada v.0.]<br>
+git checkout v.0.2 [ sirve para cambiar a una versión específica de un repositorio.]<br>
+git checkout main[para cambiar a la rama principal]<br>
+git branch -D v.0.2  [eliminar de forma forzada una rama con el nombre "v0.2"]<br> 
+git log –graph [mostrar el historial de commits.]
