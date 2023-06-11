@@ -49,3 +49,7 @@ git checkout v.0.2 [ sirve para cambiar a una versión específica de un reposit
 git checkout main[para cambiar a la rama principal]<br>
 git branch -D v.0.2  [eliminar de forma forzada una rama con el nombre "v0.2"]<br> 
 git log –graph [mostrar el historial de commits.]
+
+## Comando que he utilizado para  el merge directo
+git checkout  main [Para posicionarme en la rama master]<br>
+git branch [muestra una lista de todas las ramas en el repositorio local]<br>
