@@ -53,3 +53,12 @@ git log –graph [mostrar el historial de commits.]
 ## Comando que he utilizado para  el merge directo
 git checkout  main [Para posicionarme en la rama master]<br>
 git branch [muestra una lista de todas las ramas en el repositorio local]<br>
+## Comando que he utilizado para el merge con conflicto
+nano 1.txt <br> 
+git add 1.txt<br>
+git commit -m "Añadido hola en rama main"<br> 
+git checkout v0.2 y git add 1.txt <br>
+un git commit -m “añado Adios en la rama v0.2"<br>
+git merge v0.2 <br>
+git commit -am "conflicto resuelto en 1.txt"<br>
+ git push <br>
