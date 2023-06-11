@@ -1,2 +1,7 @@
 hola
+<<<<<<< HEAD
 
+=======
+Adios
+>>>>>>> v0.2
+conflicto resuelto
